@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#ln -sf /usr/share/zoneinfo/Europe/Minsk /etc/localtime
-#apt install pigz sshpass dialog nano
-
 date=$(date +"%d.%m.%Y.%H.%M.%S")
 
 DIR="./WD/$date/"
