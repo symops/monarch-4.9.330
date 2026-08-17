@@ -1,2 +1,6 @@
 Build Kernel
 model_name=build
+local build
+make clean
+local build
+make clean
